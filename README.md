@@ -19,4 +19,4 @@
 <li> K-Means Clustering </li>
 
 ## 4. Code:
-<li> <a href="https://github.com/luckymouse96/K-Means-Clustering/blob/main/main_code.ipynb"> Dữ liệu ca nhiễm </a> </li>
+<li> <a href="https://github.com/luckymouse96/K-Means-Clustering/blob/main/main_code.ipynb"> Main Code </a> </li>
